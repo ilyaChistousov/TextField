@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextField</string>
+    <string name="search">Почта</string>
+    <string name="helper_text">Ввести почту</string>
+    <string name="email_error">Некорректная введенная почта</string>
+    <string name="input">Ввести</string>
+    <string name="close">close</string>
+
+</resources>
